@@ -4,7 +4,7 @@
 
 **Author:** Evangelos Vlachos
 
-> **Part 1 of the Applied AI series.** This guide explains the building blocks of AI agents in plain language. When you're comfortable with these ideas, continue to **Part 2: [Applied AI Engineering Handbook](https://github.com/YOUR_USERNAME/applied-ai-engineering-handbook)**, which covers RAG, evaluation, data quality, and production infrastructure.
+> **Part 1 of the Applied AI series.** This guide explains the building blocks of AI agents in plain language. When you're comfortable with these ideas, continue to **Part 2: [Applied AI Engineering Handbook](https://github.com/evangelosvlachos96-dotcom/llm-systems-handbook)**, which covers RAG, evaluation, data quality, and production infrastructure.
 
 ---
 
@@ -554,7 +554,7 @@ The printed lines are the **trajectory**. Try breaking one part at a time to see
 
 ## What's Next
 
-You now understand how agents work. **Part 2, the [Applied AI Engineering Handbook](https://github.com/YOUR_USERNAME/applied-ai-engineering-handbook)**, goes deeper into building them for production:
+You now understand how agents work. **Part 2, the [Applied AI Engineering Handbook](https://github.com/evangelosvlachos96-dotcom/llm-systems-handbook)**, goes deeper into building them for production:
 
 - Orchestration patterns and multi-agent systems
 - RAG: chunking, hybrid search, reranking, and evaluation
@@ -583,9 +583,10 @@ Found an error or have a suggestion? Issues and pull requests are welcome.
 
 ## Author
 
-**Evangelos Vlachos**, Solution Architect.
+**Evangelos Vlachos**, Solution Architect
 
 ## License
 
 © 2026 Evangelos Vlachos. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code licensed under MIT.
+
 
